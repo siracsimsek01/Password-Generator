@@ -1,4 +1,4 @@
-# Password Generator Project
+# Password Generator Project in C++
 
 ## Introduction
 This project is a password generator written in C++. It's designed to create strong, secure passwords that meet various security criteria. This tool is ideal for anyone looking to enhance their online security with robust, hard-to-crack passwords.
